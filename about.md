@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-現 성균관대학교 일반대학원 정보통신대학 휴먼ICT융합학과 재학
+2012~2015 Bachelor of Economics, Computer Science in Hansung University.
+2016~2018 Master of engineerig in Sungkyungkwan University.
 
 ### More Information
 
