@@ -5,7 +5,7 @@ permalink: /about/
 ---
 2012~2015 : (Earned) Bachelor of Economics, Computer Engineering from Hansung University.
 
-2016~2018 : Master of Engineering (ICT Convergence) at Sungkyunkwan University.
+2016~2018 : Master of Engineering (ICT Convergence) at [Sungkyunkwan University.](http://www.skku.edu/)
 
 ### More Information
 
