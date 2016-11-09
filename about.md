@@ -3,9 +3,9 @@ layout: page
 title: About
 permalink: /about/
 ---
-2012~2015 : Bachelor of Economics, Computer Science in Hansung University.
+2012~2015 : Bachelor of Economics, Computer Science at Hansung University.
 
-2016~2018 : Master of engineerig in Sungkyungkwan University.
+2016~2018 : Master of engineerig (ICT Convergence) at Sungkyungkwan University.
 
 ### More Information
 
