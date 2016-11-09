@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 2012~2015 Bachelor of Economics, Computer Science in Hansung University.
+
 2016~2018 Master of engineerig in Sungkyungkwan University.
 
 ### More Information
