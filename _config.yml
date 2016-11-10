@@ -9,7 +9,7 @@ name: "Hello, Stranger."
 description: "취미와 공부, UX, 프로그래밍 그리고 일기장"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: "http://i.imgur.com/uprXPQa.jpg"
+avatar: http://i.imgur.com/uprXPQa.jpg
 
 #
 # Flags below are optional
